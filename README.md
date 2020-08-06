@@ -66,7 +66,7 @@ iPhone：App Store上下载ShadowLink，这个要用国外appid才可以下载�
 
 windows
 
-下载之后运行就会看到右下角有小飞机，然后右键编辑服务器；对应的服务器地址、端口、密码、加密方式就是第二步中4步骤中看到的信息，对应填写确定即可；![基于国外服务器搭建自己的VPN-天下数据](https://www.idcbest.com/newsadmin/upFile/2020-1/202001020003.jpg)
+下载之后运行就会看到右下角有小飞机，然后右键编辑服务器；对应的服务器地址、端口、密码、加密方式就是第二步中4步骤中看到的信息，对应填写确定即可；![Windows-shadowsorcks](https://www.idcbest.com/newsadmin/upFile/2020-1/202001020003.jpg)
 
 
 
